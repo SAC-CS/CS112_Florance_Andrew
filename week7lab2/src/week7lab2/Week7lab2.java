@@ -143,5 +143,8 @@ public class Week7lab2 {
 
         }
         // TODO code application logic here
+        
     }
 }
+
+//Ok...make sure you have the array and loop logic down for the midterm.
